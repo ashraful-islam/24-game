@@ -1,0 +1,6 @@
+# Node Trash
+node_modules/**
+package-lock.json
+
+# Sample Test Files
+*.txt
